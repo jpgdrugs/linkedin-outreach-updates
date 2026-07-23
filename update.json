@@ -1,6 +1,7 @@
- {
-      "version": "2.0.0",
-      "windows_url": "",
-      "notes": "",
-      "required": false
-  }
+{
+    "version": "2.0.3",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.3/LinkedInOutreachSetup-2.0.3.exe",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.3/LinkedInOutreach-2.0.3-mac-update.zip",
+    "notes": "Mac-Update-Fix: Extraktion ueber ditto/unzip statt Python-zipfile (behebt \"App ist beschaedigt\"), Cache-Buster fuer Update-Check, Support-Log-Download in Einstellungen.",
+    "required": false
+}
