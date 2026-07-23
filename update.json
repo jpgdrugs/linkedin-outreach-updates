@@ -1,7 +1,7 @@
 {
-    "version": "2.0.4",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.4/LinkedInOutreachSetup-2.0.4.exe",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.4/LinkedInOutreachGER-2.0.4-mac-update.zip",
-    "notes": "Mac: eigener App-Name/Bundle \"LinkedIn Outreach GER\" statt geteiltem LinkedInOutreach.app (verhindert Ueberschreiben der EN-Version). Eigener Datenordner (Settings/DB/Session/Logs) statt geteiltem Ordner mit EN, bestehende Daten werden automatisch migriert. Windows: nur Anzeigename geaendert, Installationspfad/Auto-Update bleiben kompatibel.",
-    "required": false
+    "version": "2.0.5",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.5/LinkedInOutreachSetup-2.0.5.exe",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.5/LinkedInOutreachGER-2.0.5-mac-update.zip",
+    "notes": "Fix: ANTHROPIC_API_KEY GitHub-Secret fehlte im Repo, dadurch hatten v2.0.3/v2.0.4 einen leeren AI-Key eingebaut (AI offline). Secret jetzt gesetzt, dieser Build hat einen funktionierenden Key.",
+    "required": true
 }
