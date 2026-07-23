@@ -1,7 +1,7 @@
 {
-    "version": "2.0.3",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.3/LinkedInOutreachSetup-2.0.3.exe",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.3/LinkedInOutreach-2.0.3-mac-update.zip",
-    "notes": "Mac-Update-Fix: Extraktion ueber ditto/unzip statt Python-zipfile (behebt \"App ist beschaedigt\"), Cache-Buster fuer Update-Check, Support-Log-Download in Einstellungen.",
+    "version": "2.0.4",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.4/LinkedInOutreachSetup-2.0.4.exe",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.4/LinkedInOutreachGER-2.0.4-mac-update.zip",
+    "notes": "Mac: eigener App-Name/Bundle \"LinkedIn Outreach GER\" statt geteiltem LinkedInOutreach.app (verhindert Ueberschreiben der EN-Version). Eigener Datenordner (Settings/DB/Session/Logs) statt geteiltem Ordner mit EN, bestehende Daten werden automatisch migriert. Windows: nur Anzeigename geaendert, Installationspfad/Auto-Update bleiben kompatibel.",
     "required": false
 }
