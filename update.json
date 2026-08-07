@@ -1,7 +1,7 @@
 {
-    "version": "2.0.5",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.5/LinkedInOutreachSetup-2.0.5.exe",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.5/LinkedInOutreachGER-2.0.5-mac-update.zip",
-    "notes": "Fix: ANTHROPIC_API_KEY GitHub-Secret fehlte im Repo, dadurch hatten v2.0.3/v2.0.4 einen leeren AI-Key eingebaut (AI offline). Secret jetzt gesetzt, dieser Build hat einen funktionierenden Key.",
-    "required": true
+    "version": "2.0.6",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.6/LinkedInOutreachSetup-2.0.6.exe",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.6/LinkedInOutreachGER-2.0.6-mac-update.zip",
+    "notes": "Fix: Einstellungen wurden nach Programmneustart nicht mehr geladen, weil settings.json in einen fuer Standardnutzer nicht beschreibbaren Ordner (Program Files) geschrieben wurde. Betroffene Nutzer muessen das Setup nach diesem Update einmalig neu ausfuellen.",
+    "required": false
 }
