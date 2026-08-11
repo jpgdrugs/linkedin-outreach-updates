@@ -1,7 +1,7 @@
 {
-    "version": "2.0.6",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.6/LinkedInOutreachSetup-2.0.6.exe",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.6/LinkedInOutreachGER-2.0.6-mac-update.zip",
-    "notes": "Fix: Einstellungen wurden nach Programmneustart nicht mehr geladen, weil settings.json in einen fuer Standardnutzer nicht beschreibbaren Ordner (Program Files) geschrieben wurde. Betroffene Nutzer muessen das Setup nach diesem Update einmalig neu ausfuellen.",
+    "version": "2.0.7",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.7/LinkedInOutreachSetup-2.0.7.exe",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.7/LinkedInOutreachGER-2.0.7-mac-update.zip",
+    "notes": "Fix: Kontakt-Scan blieb bei einigen Konten bei den ersten ~20 Kontakten haengen, weil LinkedIn die Kontaktliste inzwischen in einem inneren Bereich anzeigt statt wie bisher durchgehend scrollbar. Der Scan erkennt und scrollt diesen Bereich jetzt zuverlaessig, neue Kontakte werden wieder vollstaendig gefunden.",
     "required": false
 }
