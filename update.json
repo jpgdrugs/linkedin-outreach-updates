@@ -1,7 +1,7 @@
 {
-    "version": "2.0.7",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.7/LinkedInOutreachSetup-2.0.7.exe",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v2.0.7/LinkedInOutreachGER-2.0.7-mac-update.zip",
-    "notes": "Fix: Kontakt-Scan blieb bei einigen Konten bei den ersten ~20 Kontakten haengen, weil LinkedIn die Kontaktliste inzwischen in einem inneren Bereich anzeigt statt wie bisher durchgehend scrollbar. Der Scan erkennt und scrollt diesen Bereich jetzt zuverlaessig, neue Kontakte werden wieder vollstaendig gefunden.",
+    "version": "3.0.0",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.0/LinkedInOutreachSetup-Windows-3.0.0.exe",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.0/LinkedInOutreachGER-3.0.0-mac-update.zip",
+    "notes": "Grosses Update: Sprachumschaltung Deutsch/Englisch, vereinheitlichter Code-Stand, mehrere Bugfixes (Profil-Web-Recherche, Nachrichten-Pruefer) und neue Sicherheitshinweise.",
     "required": false
 }
