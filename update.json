@@ -1,7 +1,7 @@
 {
-    "version": "3.0.0",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.0/LinkedInOutreachSetup-Windows-3.0.0.exe",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.0/LinkedInOutreachGER-3.0.0-mac-update.zip",
-    "notes": "Grosses Update: Sprachumschaltung Deutsch/Englisch, vereinheitlichter Code-Stand, mehrere Bugfixes (Profil-Web-Recherche, Nachrichten-Pruefer) und neue Sicherheitshinweise.",
+    "version": "3.0.1",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.1/LinkedInOutreachSetup-Windows-3.0.1.exe",
+    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.1/LinkedInOutreachGER-3.0.1-mac-update.zip",
+    "notes": "Hotfix: Uebersetzungsdateien fehlten im Installer-Build (rohe UI-Keys statt Text), Trial-Banner zeigt Resttage jetzt erst in den letzten 3 Tagen.",
     "required": false
 }
