@@ -1,7 +1,7 @@
 {
-    "version": "3.0.1",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.1/LinkedInOutreachSetup-Windows-3.0.1.exe",
-    "mac_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.1/LinkedInOutreachGER-3.0.1-mac-update.zip",
-    "notes": "Hotfix: Uebersetzungsdateien fehlten im Installer-Build (rohe UI-Keys statt Text), Trial-Banner zeigt Resttage jetzt erst in den letzten 3 Tagen.",
+    "version": "3.0.2",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.2/LinkedInOutreachSetup-Windows-3.0.2.exe",
+    "mac_url": "",
+    "notes": "Hotfix: Schreibstil-Analyse (PDF/TXT/MD-Upload) schlug bei Standard-Installation fehl, da ins schreibgeschuetzte Programmverzeichnis statt in den Nutzerdaten-Ordner geschrieben wurde. Ausserdem: aktuelle Version wird jetzt unten in den Einstellungen angezeigt.",
     "required": false
 }
