@@ -1,7 +1,7 @@
 {
-    "version": "3.0.4",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.4/LinkedInOutreachSetup-Windows-3.0.4.exe",
+    "version": "3.0.5",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.5/LinkedInOutreachSetup-Windows-3.0.5.exe",
     "mac_url": "",
-    "notes": "Fix: Kunden, deren Testphase vor dem CRM-Rollout begann, werden beim naechsten Start automatisch registriert und bekommen eine frische 7-Tage-Testphase.",
+    "notes": "Fix: falsch angezeigte Versionsnummer und daueraufpoppender Update-Hinweis nach dem letzten Update behoben.",
     "required": false
 }
