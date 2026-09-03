@@ -1,7 +1,7 @@
 {
-    "version": "3.0.3",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.3/LinkedInOutreachSetup-Windows-3.0.3.exe",
+    "version": "3.0.4",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.4/LinkedInOutreachSetup-Windows-3.0.4.exe",
     "mac_url": "",
-    "notes": "Firmengroessen-Filter und 'nur vom Tool vernetzte Kontakte'-Option im Vernetzen-Modus. Sicherheitsfix beim Nachrichtenversand. Verbesserte Faktenpruefung bei KI-Nachrichten. Automatischer Start bei Systemanmeldung (optional). Automatisierte Vernetzen-/Nachrichten-Laeufe nach Zeitplan (optional). Zielgruppen-Filterung kann komplett deaktiviert werden. Diverse kleinere Verbesserungen.",
+    "notes": "Fix: Kunden, deren Testphase vor dem CRM-Rollout begann, werden beim naechsten Start automatisch registriert und bekommen eine frische 7-Tage-Testphase.",
     "required": false
 }
