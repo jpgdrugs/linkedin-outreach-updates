@@ -1,7 +1,7 @@
 {
-    "version": "3.0.5",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.5/LinkedInOutreachSetup-Windows-3.0.5.exe",
+    "version": "3.0.6",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.6/LinkedInOutreachSetup-Windows-3.0.6.exe",
     "mac_url": "",
-    "notes": "Fix: falsch angezeigte Versionsnummer und daueraufpoppender Update-Hinweis nach dem letzten Update behoben.",
+    "notes": "Kritischer Fix: verhindert, dass mehrfaches Oeffnen der App zu wiederholten Abstuerzen ohne sichtbares Fenster fuehrt.",
     "required": false
 }
