@@ -1,7 +1,7 @@
 {
-    "version": "3.0.9",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.9/LinkedInOutreachSetup-Windows-3.0.9.exe",
+    "version": "3.0.10",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.10/LinkedInOutreachSetup-Windows-3.0.10.exe",
     "mac_url": "",
-    "notes": "Einladungen zurückziehen (3+ Wochen alte Anfragen automatisch), warnt wenn LinkedIn in einem anderen Browser offen ist, Automatisierung: Checkboxen statt Dropdown (beliebig kombinierbar).",
+    "notes": "Fehlerbehebungen: Der Wochentage-Kalender bei der Automatisierung wird jetzt zuverlaessig angezeigt, und der Log-Download zeigt bei fehlendem Log nur einen kleinen Hinweis statt einer Fehlerseite.",
     "required": false
 }
