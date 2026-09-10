@@ -1,7 +1,7 @@
 {
-    "version": "3.0.10",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.10/LinkedInOutreachSetup-Windows-3.0.10.exe",
+    "version": "3.0.11",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.0.11/LinkedInOutreachSetup-Windows-3.0.11.exe",
     "mac_url": "",
-    "notes": "Fehlerbehebungen: Der Wochentage-Kalender bei der Automatisierung wird jetzt zuverlaessig angezeigt, und der Log-Download zeigt bei fehlendem Log nur einen kleinen Hinweis statt einer Fehlerseite.",
+    "notes": "Fehlerbehebungen: Der Kauf eines Abos im Programm leitet jetzt zuverlaessig zurueck und zeigt den Lizenzschluessel an. Die Vernetzen-Funktion sendet jetzt eine Benachrichtigung, wenn die Kampagne beendet ist (Liste durch, Tageslimit oder LinkedIn-Limit erreicht).",
     "required": false
 }
