@@ -1,7 +1,7 @@
 {
-    "version": "3.2.3",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.2.3/LinkedInOutreachSetup-Windows-3.2.3.exe",
+    "version": "3.2.4",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.2.4/LinkedInOutreachSetup-Windows-3.2.4.exe",
     "mac_url": "",
-    "notes": "Zurueckziehen alter Einladungen: die Liste wird jetzt wieder vollstaendig\ndurchsucht. Bisher wurden bei manchen Konten nur die ersten rund 20 Eintraege\ngeladen, weil die App die Liste nicht richtig gefunden hat, wenn gleichzeitig\ndas LinkedIn-Nachrichtenfenster offen war. Da die ersten Eintraege immer die\nneuesten sind, war keiner alt genug und es wurde nichts zurueckgezogen.\n\nZusaetzlich wird jetzt ein vorhandener \"Mehr anzeigen\"-Button in der\nEinladungsliste erkannt und geklickt.",
+    "notes": "Zurueckziehen alter Einladungen: die Einladungsliste wird jetzt richtig\ndurchgescrollt. In der Vorversion wurde stattdessen der aeussere Seitenbereich\nbewegt, dadurch lud die Liste nur sehr langsam nach und reichte oft nicht weit\ngenug zurueck, um drei Wochen alte Einladungen zu erreichen.\n\nAusserdem gibt es keine Obergrenze mehr, wie weit gescrollt wird. Es wird so\nlange gesucht, bis dein Tageslimit an Zurueckziehungen zusammen ist oder die\nListe zu Ende ist. Der Stopp-Knopf wirkt jetzt auch waehrend des Scrollens.",
     "required": false
 }
