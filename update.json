@@ -1,7 +1,7 @@
 {
-    "version": "3.2.0",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.2.0/LinkedInOutreachSetup-Windows-3.2.0.exe",
+    "version": "3.2.1",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.2.1/LinkedInOutreachSetup-Windows-3.2.1.exe",
     "mac_url": "",
-    "notes": "Neu: Wahl deiner LinkedIn Version (Free, Premium, Sales Navigator) mit festen Tageslimits, die deinen Account schützen, inklusive Hinweis, sobald ein Limit erreicht ist. Rückfrage, wenn ein zweiter Vorgang gestartet wird, Anmelde-Button in den Einstellungen für die manuelle Anmeldung, Zurückziehen alter Einladungen jetzt auch im Tab Vernetzen, Browserfenster schließt nach 20 Minuten Leerlauf, klarere Beschreibungen der Modi und Speichern-Meldung oben rechts.",
+    "notes": "Log-Ansicht in den Einstellungen zeigt wieder Inhalt. Sie las bisher eine Datei aus einem alten Ordner, waehrend die App woanders hin schrieb.\n\nInMails haben jetzt ein eigenes Kontingent und zaehlen nicht mehr gegen das Tageslimit fuer normale Nachrichten. Vorher haben sich beide gegenseitig das Limit weggenommen.\n\nNeue Kachel im Nachrichten-Tab mit den heute verbrauchten InMail-Credits und dem Monatsstand, sichtbar mit Sales Navigator.\n\nDie Modi Sales Nav Filter und Sales Nav InMail erscheinen nur noch, wenn in den Einstellungen Sales Navigator gewaehlt ist.\n\nZurueckziehen alter Anfragen ist deutlich schneller: es wird nur noch so weit gescrollt, bis genug passende Einladungen gefunden sind, statt die ganze Liste durchzugehen. Wer mehrere hundert offene Anfragen hat, spart damit Minuten.\n\nNeue Kachel im Vernetzen-Tab: wie viele Anfragen heute zurueckgezogen wurden.\n\nDas Browserfenster startet minimiert, damit die Automatisierung nicht den Bildschirm belegt. Abschaltbar in den Einstellungen unter Browserfenster. Beim manuellen Login bleibt es immer sichtbar.",
     "required": false
 }
