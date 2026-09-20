@@ -1,7 +1,7 @@
 {
-    "version": "3.3.0",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.0/LinkedInOutreachSetup-Windows-3.3.0.exe",
+    "version": "3.3.1",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.1/LinkedInOutreachSetup-Windows-3.3.1.exe",
     "mac_url": "",
-    "notes": "Senden repariert, Automatik-Zeitplan, Desktop-Benachrichtigungen\n\n- Nachrichtenversand: LinkedIn hat das Nachrichtenfenster umgebaut. Die App\n  findet das Eingabefeld jetzt zuverlaessig, prueft vor dem Senden den Namen\n  im Chatfenster und schliesst danach genau dieses eine Fenster.\n- Zeitplan/Automatik: die Nachrichten-Phase lief bisher gar nicht und hat den\n  ganzen Lauf alle 5 Minuten neu gestartet. Behoben.\n- Desktop-Benachrichtigungen funktionieren wieder (z.B. wenn ein Tageslimit\n  erreicht ist).\n- Nachrichtenlaenge wird jetzt exakt gezaehlt statt geschaetzt, dadurch werden\n  deutlich weniger Profile unnoetig uebersprungen.\n- Vernetzen: Leads, bei denen LinkedIn gar kein Vernetzen anbietet, gelten als\n  uebersprungen statt als Fehler. Hinweis zum noetigen Filter auf Kontakte\n  2. und 3. Grades ergaenzt.\n- Zurueckgezogene Einladungen erscheinen im Aktivitaetsprotokoll.\n- Eigene Anweisungen an die KI haben jetzt Vorrang vor den Standardregeln.\n- Kampagnenstart reagiert sofort statt nach mehreren Sekunden.\n- Profilansichten werden gespart: bestehende Chats werden erkannt, bevor ein\n  Profil geoeffnet wird.\n- Support-Log enthaelt jetzt Zeitstempel und die Version.",
+    "notes": "Kleine Nachbesserungen zu 3.3.0\n\n- Zurueckgezogene Einladungen erscheinen jetzt wirklich im Aktivitaetsprotokoll\n  des Vernetzen-Tabs, auch direkt nach dem Oeffnen der Seite und mit der\n  richtigen Uhrzeit.\n- Nachricht senden: falls sich das Chatfenster nach dem Klick nicht oeffnet,\n  probiert die App automatisch den naechsten passenden Knopf, statt\n  aufzugeben.\n- Das Support-Log schreibt bei einem Sendeproblem jetzt genug mit, um die\n  Ursache eindeutig zu bestimmen.",
     "required": false
 }
