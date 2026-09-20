@@ -1,7 +1,7 @@
 {
-    "version": "3.2.4",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.2.4/LinkedInOutreachSetup-Windows-3.2.4.exe",
+    "version": "3.3.0",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.0/LinkedInOutreachSetup-Windows-3.3.0.exe",
     "mac_url": "",
-    "notes": "Zurueckziehen alter Einladungen: die Einladungsliste wird jetzt richtig\ndurchgescrollt. In der Vorversion wurde stattdessen der aeussere Seitenbereich\nbewegt, dadurch lud die Liste nur sehr langsam nach und reichte oft nicht weit\ngenug zurueck, um drei Wochen alte Einladungen zu erreichen.\n\nAusserdem gibt es keine Obergrenze mehr, wie weit gescrollt wird. Es wird so\nlange gesucht, bis dein Tageslimit an Zurueckziehungen zusammen ist oder die\nListe zu Ende ist. Der Stopp-Knopf wirkt jetzt auch waehrend des Scrollens.",
+    "notes": "Senden repariert, Automatik-Zeitplan, Desktop-Benachrichtigungen\n\n- Nachrichtenversand: LinkedIn hat das Nachrichtenfenster umgebaut. Die App\n  findet das Eingabefeld jetzt zuverlaessig, prueft vor dem Senden den Namen\n  im Chatfenster und schliesst danach genau dieses eine Fenster.\n- Zeitplan/Automatik: die Nachrichten-Phase lief bisher gar nicht und hat den\n  ganzen Lauf alle 5 Minuten neu gestartet. Behoben.\n- Desktop-Benachrichtigungen funktionieren wieder (z.B. wenn ein Tageslimit\n  erreicht ist).\n- Nachrichtenlaenge wird jetzt exakt gezaehlt statt geschaetzt, dadurch werden\n  deutlich weniger Profile unnoetig uebersprungen.\n- Vernetzen: Leads, bei denen LinkedIn gar kein Vernetzen anbietet, gelten als\n  uebersprungen statt als Fehler. Hinweis zum noetigen Filter auf Kontakte\n  2. und 3. Grades ergaenzt.\n- Zurueckgezogene Einladungen erscheinen im Aktivitaetsprotokoll.\n- Eigene Anweisungen an die KI haben jetzt Vorrang vor den Standardregeln.\n- Kampagnenstart reagiert sofort statt nach mehreren Sekunden.\n- Profilansichten werden gespart: bestehende Chats werden erkannt, bevor ein\n  Profil geoeffnet wird.\n- Support-Log enthaelt jetzt Zeitstempel und die Version.",
     "required": false
 }
