@@ -1,7 +1,7 @@
 {
-    "version": "3.3.1",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.1/LinkedInOutreachSetup-Windows-3.3.1.exe",
+    "version": "3.3.2",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.2/LinkedInOutreachSetup-Windows-3.3.2.exe",
     "mac_url": "",
-    "notes": "Kleine Nachbesserungen zu 3.3.0\n\n- Zurueckgezogene Einladungen erscheinen jetzt wirklich im Aktivitaetsprotokoll\n  des Vernetzen-Tabs, auch direkt nach dem Oeffnen der Seite und mit der\n  richtigen Uhrzeit.\n- Nachricht senden: falls sich das Chatfenster nach dem Klick nicht oeffnet,\n  probiert die App automatisch den naechsten passenden Knopf, statt\n  aufzugeben.\n- Das Support-Log schreibt bei einem Sendeproblem jetzt genug mit, um die\n  Ursache eindeutig zu bestimmen.",
+    "notes": "Neue Kontakte werden wieder angeschrieben\n\n- Wichtigster Punkt: die Pruefung \"hat diese Person schon einen Chat\" hat sich\n  an der Posteingangsliste verschluckt und fast jeden neuen Kontakt als\n  \"schon angeschrieben\" eingestuft. Dadurch wurden neue Vernetzungen gar nicht\n  mehr angeschrieben. Das ist behoben.\n- Die App bleibt beim Pruefen jetzt auf dem Profil, statt auf die\n  Nachrichtenseite zu wechseln.\n- Hoefliche Vernetzungsfloskeln (\"danke fuer die Annahme meiner Anfrage\")\n  gelten nicht mehr als gefuehrte Unterhaltung.\n- Zurueckgezogene Einladungen erscheinen jetzt im Aktivitaetsprotokoll des\n  Vernetzen-Tabs.\n- Das Support-Log schreibt bei Chat-Pruefungen mit, welche Person geprueft\n  wurde.",
     "required": false
 }
