@@ -1,7 +1,7 @@
 {
-    "version": "3.3.4",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.4/LinkedInOutreachSetup-Windows-3.3.4.exe",
+    "version": "3.3.5",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.5/LinkedInOutreachSetup-Windows-3.3.5.exe",
     "mac_url": "",
-    "notes": "Nachrichten werden zuverlaessiger erstellt: Die automatische Pruefung hat sich\nbisher manchmal selbst widersprochen, eigene Fehler in ihre Korrekturen\ngeschrieben und am Ende ganz auf eine Nachricht verzichtet. Jetzt zaehlt ein\nEinwand nur noch, wenn er eine konkrete Stelle der Nachricht belegt. Bleibt ein\nEinwand bestehen, wird die Nachricht trotzdem erstellt und im Review markiert,\ndamit du entscheidest. Gedanken und Bindestriche werden automatisch entfernt.\n\nBeitraege werden nur noch verwendet, wenn sie hoechstens 6 Monate alt sind. Ist\nein Beitrag aelter oder sein Alter nicht erkennbar, stuetzt sich die Nachricht\nauf Profil und Erfahrung statt auf veraltete Inhalte.\n\nEinstellung \"Nur ueber das Tool vernetzte Kontakte\": Kontakte, die ueber Sales\nNavigator vernetzt wurden, werden jetzt auch erkannt (per Name). Bisher wurden\nsie faelschlich aussortiert und bekamen keine Nachricht. Nicht passende Kontakte\nwerden aussortiert, ohne ihr Profil zu oeffnen, und die Chat Pruefung entfaellt\nbei eigenen Kontakten.",
+    "notes": "Freischaltung zuverlaessiger: Wurde deine Testphase verlaengert, kam das bisher\nmanchmal erst Stunden spaeter oder gar nicht in der App an, wenn der Lizenzserver\ngerade langsam antwortete. Jetzt fragt die App beim Start nach, wartet laenger\nauf die Antwort und versucht es bei einer abgelaufenen Testphase alle paar\nMinuten erneut. Die Sperrseite schaltet sich von selbst frei, sobald die\nVerlaengerung da ist, und zeigt jetzt auch verfuegbare Updates an.\n\nDein Geraet wird jetzt dauerhaft wiedererkannt, auch wenn du zwischen WLAN, LAN\noder VPN wechselst.",
     "required": false
 }
