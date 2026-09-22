@@ -1,7 +1,7 @@
 {
-    "version": "3.3.2",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.2/LinkedInOutreachSetup-Windows-3.3.2.exe",
+    "version": "3.3.4",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.4/LinkedInOutreachSetup-Windows-3.3.4.exe",
     "mac_url": "",
-    "notes": "Neue Kontakte werden wieder angeschrieben\n\n- Wichtigster Punkt: die Pruefung \"hat diese Person schon einen Chat\" hat sich\n  an der Posteingangsliste verschluckt und fast jeden neuen Kontakt als\n  \"schon angeschrieben\" eingestuft. Dadurch wurden neue Vernetzungen gar nicht\n  mehr angeschrieben. Das ist behoben.\n- Die App bleibt beim Pruefen jetzt auf dem Profil, statt auf die\n  Nachrichtenseite zu wechseln.\n- Hoefliche Vernetzungsfloskeln (\"danke fuer die Annahme meiner Anfrage\")\n  gelten nicht mehr als gefuehrte Unterhaltung.\n- Zurueckgezogene Einladungen erscheinen jetzt im Aktivitaetsprotokoll des\n  Vernetzen-Tabs.\n- Das Support-Log schreibt bei Chat-Pruefungen mit, welche Person geprueft\n  wurde.",
+    "notes": "Nachrichten werden zuverlaessiger erstellt: Die automatische Pruefung hat sich\nbisher manchmal selbst widersprochen, eigene Fehler in ihre Korrekturen\ngeschrieben und am Ende ganz auf eine Nachricht verzichtet. Jetzt zaehlt ein\nEinwand nur noch, wenn er eine konkrete Stelle der Nachricht belegt. Bleibt ein\nEinwand bestehen, wird die Nachricht trotzdem erstellt und im Review markiert,\ndamit du entscheidest. Gedanken und Bindestriche werden automatisch entfernt.\n\nBeitraege werden nur noch verwendet, wenn sie hoechstens 6 Monate alt sind. Ist\nein Beitrag aelter oder sein Alter nicht erkennbar, stuetzt sich die Nachricht\nauf Profil und Erfahrung statt auf veraltete Inhalte.\n\nEinstellung \"Nur ueber das Tool vernetzte Kontakte\": Kontakte, die ueber Sales\nNavigator vernetzt wurden, werden jetzt auch erkannt (per Name). Bisher wurden\nsie faelschlich aussortiert und bekamen keine Nachricht. Nicht passende Kontakte\nwerden aussortiert, ohne ihr Profil zu oeffnen, und die Chat Pruefung entfaellt\nbei eigenen Kontakten.",
     "required": false
 }
