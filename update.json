@@ -1,7 +1,7 @@
 {
-    "version": "3.3.5",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.5/LinkedInOutreachSetup-Windows-3.3.5.exe",
+    "version": "3.3.6",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.6/LinkedInOutreachSetup-Windows-3.3.6.exe",
     "mac_url": "",
-    "notes": "Freischaltung zuverlaessiger: Wurde deine Testphase verlaengert, kam das bisher\nmanchmal erst Stunden spaeter oder gar nicht in der App an, wenn der Lizenzserver\ngerade langsam antwortete. Jetzt fragt die App beim Start nach, wartet laenger\nauf die Antwort und versucht es bei einer abgelaufenen Testphase alle paar\nMinuten erneut. Die Sperrseite schaltet sich von selbst frei, sobald die\nVerlaengerung da ist, und zeigt jetzt auch verfuegbare Updates an.\n\nDein Geraet wird jetzt dauerhaft wiedererkannt, auch wenn du zwischen WLAN, LAN\noder VPN wechselst.",
+    "notes": "Vernetzen mit Firmengroessen-Filter repariert: LinkedIn stellt gerade schrittweise\nauf ein neues Layout um. Bei manchen Konten konnte die App dadurch die\nFirmengroesse nicht mehr lesen und hat alle Profile uebersprungen, es gingen\nalso keine Anfragen raus. Die Firmengroesse wird jetzt unabhaengig vom Layout\nerkannt und es wird immer der aktuelle Arbeitgeber geprueft, nicht mehr ein\nfrueherer Job.",
     "required": false
 }
