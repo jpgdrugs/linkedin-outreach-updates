@@ -1,7 +1,7 @@
 {
-    "version": "3.3.7",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.7/LinkedInOutreachSetup-Windows-3.3.7.exe",
+    "version": "3.3.8",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.8/LinkedInOutreachSetup-Windows-3.3.8.exe",
     "mac_url": "",
-    "notes": "Klarere Statusanzeige: Oben rechts steht jetzt, was die App gerade auf LinkedIn\nmacht, zum Beispiel \"Vernetzen läuft\", \"Nachrichten werden erstellt\" oder\n\"Zurückziehen läuft\". Ist nichts aktiv, bleibt die Stelle leer. Die alte Anzeige\n\"Scan pausiert\" gibt es nicht mehr.\n\nDie rote Warnung, selbst nicht auf LinkedIn aktiv zu sein, erscheint jetzt auch\nbeim Zurückziehen alter Einladungen.",
+    "notes": "Automatisierung flexibler: Stellst du nach einem Lauf die Uhrzeit für heute auf\neine spätere Zeit, läuft die Automatisierung heute zu dieser Zeit noch einmal.\nBisher galt der Tag nach dem ersten Lauf als erledigt.\n\nNeu in den Einstellungen im Bereich Automatisierung: der Button\n\"Automatisierung jetzt starten\". Er startet sofort die angehakten Schritte,\negal welcher Tag oder welche Uhrzeit eingestellt ist.\n\nDer Firmengrößen-Filter beim Vernetzen wird nur noch bei LinkedIn Free und\nPremium angeboten. Mit Sales Navigator filterst du die Firmengröße direkt in\ndeiner Suche.",
     "required": false
 }
