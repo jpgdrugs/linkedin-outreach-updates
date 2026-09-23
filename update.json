@@ -1,7 +1,7 @@
 {
-    "version": "3.3.8",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.8/LinkedInOutreachSetup-Windows-3.3.8.exe",
+    "version": "3.3.9",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.9/LinkedInOutreachSetup-Windows-3.3.9.exe",
     "mac_url": "",
-    "notes": "Automatisierung flexibler: Stellst du nach einem Lauf die Uhrzeit für heute auf\neine spätere Zeit, läuft die Automatisierung heute zu dieser Zeit noch einmal.\nBisher galt der Tag nach dem ersten Lauf als erledigt.\n\nNeu in den Einstellungen im Bereich Automatisierung: der Button\n\"Automatisierung jetzt starten\". Er startet sofort die angehakten Schritte,\negal welcher Tag oder welche Uhrzeit eingestellt ist.\n\nDer Firmengrößen-Filter beim Vernetzen wird nur noch bei LinkedIn Free und\nPremium angeboten. Mit Sales Navigator filterst du die Firmengröße direkt in\ndeiner Suche.",
+    "notes": "Neu in den Einstellungen: Die Tabelle mit den Limits deiner LinkedIn Version hat\njetzt eine Spalte \"Aktuell\". Dort siehst du, wie viele Profilansichten,\nVernetzungsanfragen, Direktnachrichten, zurückgezogene Einladungen und InMails\nheute schon verbraucht sind.\n\nNur vom Tool vernetzte Kontakte: Wenn alle Kontakte, die deine Anfragen\nangenommen haben, bereits eine Nachricht haben, beendet die App den Scan und\nsagt dir Bescheid. So entstehen keine Nachrichten an andere Kontakte.\n\nBehoben: Profile, die wegen der Firmengröße übersprungen wurden, galten danach\nfür immer als \"bereits gesendet\". Sie werden jetzt wieder angefragt, sobald der\nFilter sie nicht mehr ausschließt, zum Beispiel wenn du ihn ausschaltest.\n\nBehoben: Wer eine Vernetzen-Kampagne gestoppt und sofort wieder gestartet hat,\nhatte kurz zwei Kampagnen gleichzeitig. Die neue startet jetzt erst, wenn die\nalte fertig ist.",
     "required": false
 }
