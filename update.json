@@ -1,7 +1,7 @@
 {
-    "version": "3.3.6",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.6/LinkedInOutreachSetup-Windows-3.3.6.exe",
+    "version": "3.3.7",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.7/LinkedInOutreachSetup-Windows-3.3.7.exe",
     "mac_url": "",
-    "notes": "Vernetzen mit Firmengroessen-Filter repariert: LinkedIn stellt gerade schrittweise\nauf ein neues Layout um. Bei manchen Konten konnte die App dadurch die\nFirmengroesse nicht mehr lesen und hat alle Profile uebersprungen, es gingen\nalso keine Anfragen raus. Die Firmengroesse wird jetzt unabhaengig vom Layout\nerkannt und es wird immer der aktuelle Arbeitgeber geprueft, nicht mehr ein\nfrueherer Job.",
+    "notes": "Klarere Statusanzeige: Oben rechts steht jetzt, was die App gerade auf LinkedIn\nmacht, zum Beispiel \"Vernetzen läuft\", \"Nachrichten werden erstellt\" oder\n\"Zurückziehen läuft\". Ist nichts aktiv, bleibt die Stelle leer. Die alte Anzeige\n\"Scan pausiert\" gibt es nicht mehr.\n\nDie rote Warnung, selbst nicht auf LinkedIn aktiv zu sein, erscheint jetzt auch\nbeim Zurückziehen alter Einladungen.",
     "required": false
 }
