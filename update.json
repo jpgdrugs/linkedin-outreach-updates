@@ -1,7 +1,7 @@
 {
-    "version": "3.3.9",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.9/LinkedInOutreachSetup-Windows-3.3.9.exe",
+    "version": "3.3.10",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.10/LinkedInOutreachSetup-Windows-3.3.10.exe",
     "mac_url": "",
-    "notes": "Neu in den Einstellungen: Die Tabelle mit den Limits deiner LinkedIn Version hat\njetzt eine Spalte \"Aktuell\". Dort siehst du, wie viele Profilansichten,\nVernetzungsanfragen, Direktnachrichten, zurückgezogene Einladungen und InMails\nheute schon verbraucht sind.\n\nNur vom Tool vernetzte Kontakte: Wenn alle Kontakte, die deine Anfragen\nangenommen haben, bereits eine Nachricht haben, beendet die App den Scan und\nsagt dir Bescheid. So entstehen keine Nachrichten an andere Kontakte.\n\nBehoben: Profile, die wegen der Firmengröße übersprungen wurden, galten danach\nfür immer als \"bereits gesendet\". Sie werden jetzt wieder angefragt, sobald der\nFilter sie nicht mehr ausschließt, zum Beispiel wenn du ihn ausschaltest.\n\nBehoben: Wer eine Vernetzen-Kampagne gestoppt und sofort wieder gestartet hat,\nhatte kurz zwei Kampagnen gleichzeitig. Die neue startet jetzt erst, wenn die\nalte fertig ist.",
+    "notes": "Versand bei erreichtem Tageslimit verbessert: Ist ein Limit deiner LinkedIn\nVersion erreicht (zum Beispiel Profilansichten), hält die App den Versand an.\nDie wartenden Nachrichten werden nicht mehr als fehlgeschlagen markiert, sondern\nbleiben freigegeben. Sobald das Limit wieder frei ist, kannst du sie einfach\nerneut senden. Ein Hinweis sagt dir, wie viele Nachrichten zurückgelegt wurden.",
     "required": false
 }
