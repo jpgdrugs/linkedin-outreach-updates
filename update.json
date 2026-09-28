@@ -1,7 +1,7 @@
 {
-    "version": "3.3.13",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.13/LinkedInOutreachSetup-Windows-3.3.13.exe",
+    "version": "3.3.14",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.14/LinkedInOutreachSetup-Windows-3.3.14.exe",
     "mac_url": "",
-    "notes": "Zuverlässigeres Senden: Die App klickt den Nachricht-Knopf jetzt wie ein Mensch\nmit der Maus. Vorher öffnete LinkedIn manchmal die volle Nachrichtenseite statt\ndes kleinen Chatfensters, dort konnte das Eingabefeld verdeckt sein und einzelne\nKontakte scheiterten immer wieder. Ist das Feld trotzdem verdeckt, schreibt die\nApp direkt hinein, ohne darauf klicken zu müssen.\n\nNach dem Senden prüft die App, ob LinkedIn die Nachricht wirklich abgeschickt hat.\nIst der Browser zwischendurch abgestürzt, wird er vor dem Senden neu gestartet.",
+    "notes": "Genauere Sendeerkennung: Nach dem Absenden wartet die App jetzt etwas länger, bis\nLinkedIn die Nachricht verarbeitet hat. Vorher konnte eine Nachricht als\nfehlgeschlagen angezeigt werden, obwohl sie bereits verschickt war. Findet die App\nden Senden-Knopf nicht sofort, sucht sie einige Sekunden weiter und prüft dabei, ob\ndie Nachricht schon raus ist.\n\nWichtig: Wird eine Nachricht als fehlgeschlagen angezeigt, bitte vor dem erneuten\nSenden kurz im LinkedIn-Chat nachsehen, ob sie nicht doch angekommen ist.",
     "required": false
 }
