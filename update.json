@@ -1,7 +1,7 @@
 {
-    "version": "3.3.12",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.12/LinkedInOutreachSetup-Windows-3.3.12.exe",
+    "version": "3.3.13",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.13/LinkedInOutreachSetup-Windows-3.3.13.exe",
     "mac_url": "",
-    "notes": "Zuverlässigeres Senden: Bei manchen Konten zeigt LinkedIn das Nachrichtenfenster\nin einem eingebetteten Bereich, dort brach der Versand zur Sicherheit ab. Die App\nschreibt, prüft und sendet jetzt direkt im Eingabefeld der richtigen Person,\nunabhängig vom Layout, und kontrolliert vor dem Senden, dass der Text dort steht.\nDas Chatfenster wird danach zuverlässiger geschlossen, auch bei Namen mit Titel.\n\nGenauere Zielgruppe: Nachrichten werden nur noch für Kontakte erstellt, die als\nKunde für Ihr Angebot in Frage kommen. Mitbewerber und fremde Branchen werden\naussortiert. Neu in den Einstellungen: Mindestsicherheit der KI (Standard 70 %).\n\nFehlgeschlagene Nachrichten lassen sich mit einem Klick kopieren und selbst senden.",
+    "notes": "Zuverlässigeres Senden: Die App klickt den Nachricht-Knopf jetzt wie ein Mensch\nmit der Maus. Vorher öffnete LinkedIn manchmal die volle Nachrichtenseite statt\ndes kleinen Chatfensters, dort konnte das Eingabefeld verdeckt sein und einzelne\nKontakte scheiterten immer wieder. Ist das Feld trotzdem verdeckt, schreibt die\nApp direkt hinein, ohne darauf klicken zu müssen.\n\nNach dem Senden prüft die App, ob LinkedIn die Nachricht wirklich abgeschickt hat.\nIst der Browser zwischendurch abgestürzt, wird er vor dem Senden neu gestartet.",
     "required": false
 }
