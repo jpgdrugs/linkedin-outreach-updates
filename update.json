@@ -1,7 +1,7 @@
 {
-    "version": "3.3.14",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.14/LinkedInOutreachSetup-Windows-3.3.14.exe",
+    "version": "3.3.15",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.15/LinkedInOutreachSetup-Windows-3.3.15.exe",
     "mac_url": "",
-    "notes": "Genauere Sendeerkennung: Nach dem Absenden wartet die App jetzt etwas länger, bis\nLinkedIn die Nachricht verarbeitet hat. Vorher konnte eine Nachricht als\nfehlgeschlagen angezeigt werden, obwohl sie bereits verschickt war. Findet die App\nden Senden-Knopf nicht sofort, sucht sie einige Sekunden weiter und prüft dabei, ob\ndie Nachricht schon raus ist.\n\nWichtig: Wird eine Nachricht als fehlgeschlagen angezeigt, bitte vor dem erneuten\nSenden kurz im LinkedIn-Chat nachsehen, ob sie nicht doch angekommen ist.",
+    "notes": "Zuverlässigere Prüfung auf bestehende Chats: Die App erkennt jetzt sicher, wenn mit\neinem Kontakt schon eine Unterhaltung läuft, auch wenn nur Sie selbst geschrieben\nhaben und noch keine Antwort kam. Vorher konnte sie in solchen Fällen trotzdem eine\nNachricht schicken.\n\nNeu: Direkt vor jedem Senden prüft die App den Chat noch einmal. Haben Sie der Person\nin der Zwischenzeit selbst geschrieben, wird die Nachricht nicht verschickt und im\nDashboard mit dem Hinweis \"Bestehender Chat gefunden, nicht gesendet\" angezeigt.",
     "required": false
 }
