@@ -1,7 +1,7 @@
 {
-    "version": "3.3.16",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.16/LinkedInOutreachSetup-Windows-3.3.16.exe",
+    "version": "3.3.17",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.17/LinkedInOutreachSetup-Windows-3.3.17.exe",
     "mac_url": "",
-    "notes": "Bessere Nachrichten: Die App recherchiert vor dem Schreiben gezielt Profil, Firmenseite\nund Website der Person und erkennt so, ob und warum Ihr Angebot passt. Jede Nachricht\nzeigt in einer kurzen Zeile, warum sie so geschrieben wurde. Mit Sternen bewerten Sie\nNachrichten, sehr gute Nachrichten dienen automatisch als Vorbild für die nächsten.\n\nNeu: Einrichtungs-Chat. In den Einstellungen richten Sie im Gespräch mit der KI Ihr\nAngebot, Ihre Zielgruppen, Ihre Anrede und Beispiele guter Nachrichten ein. Die\nEinstellungsseite für Nachrichten ist übersichtlicher in vier Bereiche gegliedert.\n\nInMails: Das Senden funktioniert wieder mit dem aktuellen Layout von Sales Navigator.\nDie App öffnet direkt die gespeicherte Lead-Seite, prüft vor dem Ausfüllen den\nEmpfänger und schreibt InMails im gleichen Aufbau wie Ihre Erstnachrichten.\n\nAußerdem: Profile werden im neuen LinkedIn-Layout wieder vollständig gelesen (Beiträge,\nStandort, Werdegang), kürzere Pausen zwischen Profilen, das Wochenlimit für\nKontaktanfragen wird erkannt.",
+    "notes": "Fehlerbehebung: Die Prüfung auf bestehende Chats meldete in manchen Fällen bei jedem\nKontakt einen bestehenden Chat, wenn im LinkedIn-Fenster der App Chatfenster offen\ngeblieben waren. Scan und Versand wurden dadurch blockiert. Die App wertet jetzt nur\nnoch den Chat mit der jeweiligen Person und ignoriert andere geöffnete Chats.",
     "required": false
 }
