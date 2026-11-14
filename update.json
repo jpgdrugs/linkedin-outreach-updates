@@ -1,7 +1,7 @@
 {
-    "version": "3.3.18",
-    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.18/LinkedInOutreachSetup-Windows-3.3.18.exe",
+    "version": "3.3.19",
+    "windows_url": "https://github.com/jpgdrugs/linkedin-outreach-updates/releases/download/v3.3.19/LinkedInOutreachSetup-Windows-3.3.19.exe",
     "mac_url": "",
-    "notes": "Neu: Inbox CRM. Der Bereich Konversationen ist jetzt ein CRM für dein LinkedIn-Postfach mit Labels, Notizen, Erinnerungen und Follow-up-Timern. Es arbeitet mit der Chrome-Erweiterung \"Inbox CRM\" zusammen, die App läuft aber auch ohne sie.\nBessere Kontaktauswahl: Passende Kontakte aus Nachbarbranchen werden nicht mehr fälschlich aussortiert.\nRückmeldungen zu Nachrichten lassen sich als Einzelfall oder als Regel speichern.\nSchneller und sicherer: weniger Wartezeit beim Seitenwechsel, Schutz gegen Zugriffe fremder Webseiten, die App ist nur noch auf diesem Computer erreichbar.\nNeue Datenschutzerklärung in der App, AGB aktualisiert.",
+    "notes": "Inbox CRM: Die Chrome-Erweiterung \"Inbox CRM\" ist jetzt im Chrome Web Store. Im Bereich Konversationen gibt es dafür einen Knopf \"Inbox CRM installieren\".\nProfilbilder im CRM werden jetzt auf deinem Computer gespeichert und bleiben sichtbar, auch wenn LinkedIn den Bildlink nach einigen Wochen ungültig macht. Fehlt ein Bild, stehen die Initialen da statt eines kaputten Bildes.",
     "required": false
 }
